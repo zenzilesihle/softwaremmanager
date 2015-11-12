@@ -1,0 +1,33 @@
+{
+  "name": "softwaremanager",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0",
+    "async": "^1.4.2",
+    "bcrypt": "^0.8.3",
+    "chai": "^2.3.0",
+    "debug": "~2.1.1",
+    "express": "~4.12.2",
+    "jsonschema": "^1.0.1",
+    "mocha": "^2.2.5",
+    "mockgoose": "^2.0.1",
+    "mongodb": "^2.0.33",
+    "mongoose": "^4.0.3",
+    "mongoose-schema-extend": "^0.1.7",
+    "proxy-agent": "^2.0.0",
+    "should": "^6.0.3",
+    "superagent": "^1.2.0",
+    "supertest": "^1.0.1"
+
+  }
+}
